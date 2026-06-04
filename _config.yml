@@ -12,13 +12,13 @@ url:
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: 
 # location of code, the full url to your github repository
-source-code: https://github.com/Digital-Grinnell/GCCB-project-template
+source-code: https://github.com/Digital-Grinnell/GCCB-CSM
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Grinnell College CollectionBuilder CSV Template
+title: Grinnell College Computer Science Museum
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Digital Collection Magic with Static Web Technologies
 # description appears in meta tags and other locations
