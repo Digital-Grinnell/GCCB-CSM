@@ -1,7 +1,7 @@
 ---
-title: Timeline
+title: TimelineJS
 layout: page-full-width
-permalink: /timeline.html
+permalink: /timelinejs.html
 ---
 
 {% include feature/timelinejs.html %}
