@@ -8,5 +8,7 @@ Browse by
 Subjects,/subjects.html,Browse by
 Locations,/locations.html,Browse by
 Map,/map.html,Browse by
-Timeline,/timeline.html,Browse by
+Timelines,,
+Full Timeline,/timeline.html,Timelines
+TimelineJS,/timelinejs.html,Timelines
 Data,/data.html,Browse by
