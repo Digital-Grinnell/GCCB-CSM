@@ -4,4 +4,4 @@ layout: page-full-width
 permalink: /timeline.html
 ---
 
-{% include feature/timelinejs.html %}
+{% include feature/timeline.html %}
