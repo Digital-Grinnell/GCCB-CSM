@@ -1,3 +1,7 @@
+# GCCB-CSM: The Grinnell College Computer Science Museum
+
+As of July 2, current code pushed from `main` is automatically deployed to: https://happy-coast-019f0eb10.7.azurestaticapps.net
+
 # Digital-Grinnell/GCCB-project-template
 
 This project is an instance of the [Digital-Grinnell/collectionbuilder-csv](https://github.com/Digital-Grinnell/collectionbuilder-csv) template project.  On December 10 I set an Azure environment variable that should yield dates/times in America/Chicago timezone (TZ).  
@@ -12,6 +16,7 @@ This template project is deployed to https://gentle-ground-0283de21e.3.azurestat
 ## Documentation
 
 - [MP3 Range Request Fix - Audio Seeking in Chrome](docs/mp3-range-request-fix.md) - Solutions for timestamp seeking issues with audio files 
+- [Timeline Page Behavior (Native vs TimelineJS)](docs/timeline-page-behavior.md) - How to keep Full Timeline native and TimelineJS standalone
 
 
 # Digital-Grinnell/collectionbuilder-csv
