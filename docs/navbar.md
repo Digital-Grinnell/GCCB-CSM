@@ -37,3 +37,13 @@ CollectionBuilder,/tech.html,About
 When clicked, the dropdown would appear with "About the Collection" and "CollectionBuilder" listed.
 
 Note: dropdowns do NOT appear in the footer nav. The parent will appear, with a link to the top child. 
+
+## Timeline dropdown note
+
+If you expose both Full Timeline and TimelineJS in a Timelines dropdown, verify the page wiring in both page files.
+
+- pages/timeline.md should use the native timeline layout (`layout: timeline`) for the CollectionBuilder timeline view.
+- pages/timelinejs.md should use `layout: page-full-width` and include `feature/timelinejs.html` for the Knight Lab TimelineJS view.
+
+If both links show TimelineJS, pages/timeline.md was likely changed to embed TimelineJS.
+See docs/timeline-page-behavior.md for details and the minimal fix.

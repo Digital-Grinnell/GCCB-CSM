@@ -24,6 +24,7 @@ cloud.md
 data.md
 maps.md
 navbar.md
+timeline-page-behavior.md
 tables.md
 
 ## Technical Components
